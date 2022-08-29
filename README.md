@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio of Data Analysis and Data Science projects
+Portfolio de projets de Data Analysis et de Data Science
